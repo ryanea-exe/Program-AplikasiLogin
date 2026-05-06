@@ -1,4 +1,4 @@
-# Aplikasi-Login
+# Program-AplikasiLogin
 Sebuah aplikasi dengan fitur login.
 
 Alur Fitur Login:
